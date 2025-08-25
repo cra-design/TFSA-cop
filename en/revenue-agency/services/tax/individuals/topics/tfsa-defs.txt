@@ -67,7 +67,7 @@ https://cra-design.github.io/TFSA-cop/en/revenue-agency/services/tax/individuals
 <h2 class="modal-title">Exempt contribution</h2>
 </header>
 <div class="modal-body">
-<p>A contribution made during the rollover period and designated as exempt by the survivor on prescribed <a href="https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc240.html">Form RC240, Designation of an Exempt Contribution Tax-Free Savings Account (TFSA), in connection with a payment received from the deceased holder's TFSA</a>.</p>
+<p>A contribution made during the rollover period and designated as exempt by the survivor on prescribed Form RC240, Designation of an Exempt Contribution Tax-Free Savings Account (TFSA), in connection with a payment received from the deceased holder's TFSA.</p>
 </div>
 </section>
 
