@@ -122,7 +122,7 @@ https://cra-design.github.io/TFSA-cop/en/revenue-agency/services/tax/individuals
 <ul>
 	<li>an arrangement in trust with an issuer that is authorized in Canada to offer to the public its services as a trustee</li>
 	<li>an annuity contract with an issuer that is a licensed annuities provider</li>
-	<li>a deposit with an issuer that is a person who is a member, or is eligible to be a member, of the Canadian Payments Association, or a credit union that is a shareholder or member of a "central" for the purposes of the <em>Canadian Payments Act</em>.</li>
+	<li>a deposit with an issuer that is a person who is a member, or is eligible to be a member, of the Canadian Payments Association, or a credit union that is a shareholder or member of a "central" for the purposes of the <em>Canadian Payments Act</em></li>
 </ul>	
 </div>
 </section>
